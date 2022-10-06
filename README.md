@@ -1,4 +1,5 @@
 ### Hi there 👋
+![photo_2022-07-03_21-10-05](https://user-images.githubusercontent.com/108795111/194384567-064143de-82c0-43f6-a36a-d244b6973d6e.jpg)
 - 🔭 I’m currently working on PTIT.
 - 🌱 I’m currently learning Java, Python, C++.
 - 👯 I’m looking to collaborate on Telegram.
