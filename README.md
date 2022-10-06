@@ -1,5 +1,5 @@
 ### Hi there 👋
-![photo_2022-07-03_21-10-05](https://user-images.githubusercontent.com/108795111/194384567-064143de-82c0-43f6-a36a-d244b6973d6e.jpg)
+### Nguyễn Hoàng Việt
 - 🔭 I’m currently working on PTIT.
 - 🌱 I’m currently learning Java, Python, C++.
 - 👯 I’m looking to collaborate on Telegram.
@@ -8,7 +8,7 @@
 - 📫 How to reach me: 0337176055
 - 😄 Pronouns: Campus
 - ⚡ Fun fact: Nguyễn Hoàng Việt
-
+![280844286_157968420047307_2986054551024583841_n](https://user-images.githubusercontent.com/108795111/194385888-6808fc38-d70e-40b6-8557-d07fcbe741fa.jpg)
 <!--
 **Campus-is-me/Campus-is-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
