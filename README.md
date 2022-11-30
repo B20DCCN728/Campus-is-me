@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Nguyễn Hoàng Việt
+### Nguyễn Đình Toàn
 - 🔭 I’m currently working on PTIT.
 - 🌱 I’m currently learning Java, Python, C++.
 - 👯 I’m looking to collaborate on Telegram.
@@ -7,7 +7,7 @@
 - 💬 Ask me about Code.
 - 📫 How to reach me: 0337176055
 - 😄 Pronouns: Campus
-- ⚡ Fun fact: Nguyễn Hoàng Việt
+- ⚡ Fun fact: Nguyễn Đình Toàn
 
 
 ![280844286_157968420047307_2986054551024583841_n](https://user-images.githubusercontent.com/108795111/194385888-6808fc38-d70e-40b6-8557-d07fcbe741fa.jpg)
